@@ -26,7 +26,7 @@
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][compelete2020]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][complete2020]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][complete2020]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][complete2020]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
 <br />
@@ -42,4 +42,5 @@
 [reactredux]: https://www.udemy.com/course/complete-react-developer-zero-to-mastery
 [juniortosenior]: https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap
 [deno]: https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery
+[github]: https://www.github.com/OliverWebb
 
