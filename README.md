@@ -5,7 +5,7 @@
 ## About me :
 - 📚 I come from a non-coding background
 - ❓ During Covid-19 lockdown I developed a keen interest in web development
-- 👨‍🏫 I learned to code from  [Andrei Neagoi][ztm]
+- 👨‍🏫 I am learning to code from  [Andrei Neagoi][ztm]
 - 🧑‍🤝‍🧑 Open to collaboration with other content creators 
 - 🎯 2020 goals: Contribute more to open source projects and showcase my skills
 - ⚡ Fun fact: I may be a beginner but I am definitely an active learner
