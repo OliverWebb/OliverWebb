@@ -43,6 +43,8 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
+
 <img align="left" alt="Olive Webb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OliverWebb&show_icons=true&hide_border=true" />
 
 [ztm]: https://zerotomastery.io
